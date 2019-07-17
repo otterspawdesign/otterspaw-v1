@@ -23,7 +23,7 @@ html {
 }
 
 header {
-  font-size: 4rem;
+  font-size: 3rem;
   display: flex;
   justify-content: space-around;
   font-family: "Montserrat", sans-serif;
