@@ -198,8 +198,29 @@ main {
   margin: auto;
   width: 80%;
 }
-.top-content {
-  font-size: 2rem;
-  background-color: rgba(217, 176, 140, 0.5);
-  padding: 20px 20px;
+main .top-content {
+  font-size: 1.8rem;
+  background-color: rgba(217, 176, 140, 0.9);
+  padding: 20px 40px;
+}
+main .top-content h1 {
+  display: flex;
+  font-size: 4rem;
+  font-family: "Teko", sans-serif;
+  justify-content: center;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+main .top-content h2 {
+  display: flex;
+  justify-content: center;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+main .top-content p {
+  display: flex;
+  justify-content: center;
+  line-height: 1.4;
+  font-family: "Montserrat", sans-serif;
 }
